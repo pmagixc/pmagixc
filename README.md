@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello! I'm pmagixc, a 17 year old from Romania.<br>My main advantage is pretty much translating projects in Romanian at request, for pretty much free.
+Hello! I'm pmagixc, a 17 year old from Romania.<br>My main advantage is pretty much translating projects in Romanian...
 
 
 ## 🌐 Socials:
