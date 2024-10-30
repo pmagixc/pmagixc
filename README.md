@@ -6,6 +6,8 @@ Hello! I'm pmagixc, a 17 year old from Romania.<br>My main advantage is pretty m
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@xz.zd) 
 ### Other:
 [My very own gitea instance](https://git.freespyware.store)
+
+
 [My site](https://pmagickline.xyz)
 
 # 💻 Tech Stack:
